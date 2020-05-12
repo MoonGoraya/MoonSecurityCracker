@@ -16,8 +16,3 @@ Hack Cameras
 
 * python3 chandcyber.py
 
-# CAM-HACKERS
-
-<img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/camfoto.png">
-
-# CAM-HACKERS
