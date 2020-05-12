@@ -1,4 +1,4 @@
-# Cam-Hackers
+# Chand cctv hack
 
 Hack Cameras
 
@@ -8,22 +8,16 @@ Hack Cameras
 
 * apt-get install git
 
-* git clone https://github.com/AngelSecurityTeam/Cam-Hackers
+* git clone https://github.com/MoonGoraya/MoonSecurityCracker
 
 * pip3 install requests
 
-* cd Cam-Hackers
+* cd MoonSecurityCracker
 
-* python3 cam-hackers.py
+* python3 chandcyber.py
 
 # CAM-HACKERS
 
 <img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/camfoto.png">
 
 # CAM-HACKERS
-
-<img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/camfoto2.png">
-
-<h3> Paypal donations: </h3>
-
-* https://www.paypal.me/AngelSecurityTeam
